@@ -3,7 +3,7 @@
 This release improves reliability when relaying, more enhanced configuration and improved monitoring.
 
 Reliability has been improved:
-* It is now possible to relay ICS-04 packets with non-UTF-8 payloads
+* It is now possible to relay [ICS-04](https://github.com/cosmos/ibc/blob/main/spec/core/ics-004-channel-and-packet-semantics/README.md) packets with non-UTF-8 payloads
 * Packet sequences are now verified for ordered channels before trying to relay
 
 Additional per-chain configurations have been added:
