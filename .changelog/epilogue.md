@@ -52,7 +52,7 @@ Upgrading from version `0.6.0` to `0.6.1` requires no explicit steps.
 *July 12th, 2021*
 
 
-Many thanks to Fraccaroli Gianmarco (@Fraccaman) for helping us improve the
+Many thanks to [Fraccaroli Gianmarco](https://github.com/Fraccaman) (@Fraccaman) for helping us improve the
 reliability of Hermes ([#697]).
 
 This release includes two major features to Hermes: (1) support for reloading
@@ -68,7 +68,7 @@ In addition to these two, we have also added a health checkup mechanism, plus ne
 
 When upgrading from Hermes v0.5.0 to v0.6.0, the most important
 point to watch out for is the configuration file.
-The Hermes config.toml configuration file has went through a few revisions,
+The Hermes [config.toml](https://github.com/informalsystems/ibc-rs/blob/v0.6.0/config.toml) configuration file has went through a few revisions,
 with the changes described below.
 
 #### Added inline documentation for all options.
